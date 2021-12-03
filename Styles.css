@@ -1,0 +1,52 @@
+/*Kacper Dąbrowski 1P 01.12.2021*/
+
+h3#linki {
+    color: rgb(25, 36, 194);
+    text-shadow: 2px 1px rgb(46, 43, 43);
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+li#zadania {
+    color:rgb(59, 70, 231);
+    text-shadow: 1px 1px black;
+    font-weight: bolder;
+}
+
+a#start {
+    color: #6902c9;
+    font-weight: bolder;
+    text-shadow: 2px 1px black;
+    font-size: 35px;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background-color:rgb(42, 42, 44)
+}
+
+td#zadaniatlo {
+    background-color: rgb(34, 32, 32);
+}
+
+td#starttlo {
+    background-color: rgb(49, 45, 45);
+}
+
+table, th, td {
+    border: 5px ridge black;
+  }
+
+iframe {
+    border: ridge;
+    padding: 5px;
+    border-color: black;
+}
+
+marquee {
+    background-color: rgb(59, 70, 231);
+    font-weight: bolder;
+    font-size: 20px;
+    text-shadow: 1px 1px gray
+}
